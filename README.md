@@ -1,3 +1,3 @@
 # sequelize
 
-- [x] truncate & reset all seeders ([code](../blob/master/ResetController.js))
+- [x] truncate & reset all seeders ([code](ResetController.js))
